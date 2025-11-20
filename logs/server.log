@@ -1,0 +1,19 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [144] using StatReload
+INFO:     Started server process [146]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:50576 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:50588 - "GET /api/recommendations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50588 - "GET /api/recommendations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50602 - "GET /api/recommendations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48960 - "GET /api/search?q=fantasy HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50602 - "GET /api/recommendations HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50602 - "GET /api/search?q=atomic%20habits HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50602 - "GET /api/search?q=machine%20learning HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50602 - "GET /api/search?q=harry%20potter HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50602 - "GET /api/search?q=design HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48970 - "GET /api/search?q=game%20of%20thrones HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35160 - "GET /api/search?q=fantasy HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58346 - "GET /api/search?q=atomic%20habits HTTP/1.1" 200 OK
